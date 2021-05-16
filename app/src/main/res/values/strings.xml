@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoomCustom</string>
+    <string name="_1_da_lat">1 . Da Lat</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="edit">Edit</string>
+    <string name="id_1">ID : 1</string>
+    <string name="the_place_that_you_will_visit_in_the_future">The place that you will visit in the future</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
